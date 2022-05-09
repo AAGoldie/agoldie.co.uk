@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "agoldie.tech",
+    "name": "agoldie.co.uk",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -61,7 +61,7 @@
     "versionPublish": "5.3.5",
     "imageResize": true,
     "sitemapSwitcher": true,
-    "siteUrl": "https://agoldie.tech",
+    "siteUrl": "https://agoldie.co.uk",
     "sitemapSwitcherAuto": "on",
     "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-WGTC8XEZZ3\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-WGTC8XEZZ3');\n</script>",
     "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
